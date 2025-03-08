@@ -32,7 +32,8 @@ I have applied and learned the following Excel functions:
 - What are the lowest, highest, and top 5 salary values by gender?
 - How to dynamically filter and lookup employee details?
 - What is the median salary and female ratio across departments?
-![Uploading image.png…]()
+<img width="1237" alt="image" src="https://github.com/user-attachments/assets/388ef026-8408-43e7-9034-be3c38c9d770" />
+
 
 
 ## 📚 About Me
