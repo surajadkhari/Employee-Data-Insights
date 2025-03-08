@@ -2,6 +2,7 @@
 
 Welcome to my **Excel Data Analysis** repository! This project showcases my growing proficiency in Excel, focusing on essential functions for data analysis. This repository is a part of my learning journey as I develop skills in Excel for a future role in **Data Analytics**.
 
+
 ## 📁 Project Overview
 This project involves analyzing employee data using advanced Excel functions. The goal is to extract meaningful insights such as salary distribution, gender-based analysis, employee lookup, and other key metrics. This repository reflects my hands-on practice with real-world datasets to strengthen my data analysis capabilities.
 
@@ -31,6 +32,7 @@ I have applied and learned the following Excel functions:
 - What are the lowest, highest, and top 5 salary values by gender?
 - How to dynamically filter and lookup employee details?
 - What is the median salary and female ratio across departments?
+![Uploading image.png…]()
 
 
 ## 📚 About Me
